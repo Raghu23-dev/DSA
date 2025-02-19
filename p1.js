@@ -49,3 +49,12 @@
 //     f(n - 1);
 //   }
 // }
+
+//Interesting Problem
+//O(logN)
+// function example(n){
+//     for(let i=1;i<=n;i*=2){
+//         console.log(i)
+//     }
+// }
+// example(4)

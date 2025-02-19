@@ -1,0 +1,33 @@
+Big O - Analyzing the efficiency of an algorithm
+
+fastest growing complexity - O(1)<O(N)<O(logN)<O(2^N)
+
+for(let i=0;i<n;i++){
+    console.log(i)
+}
+- O(N)
+
+worst-case time complexity of Binary search - O(logN)
+
+two nested loops - O(N^2)
+
+best-case time complexity of linear search - O(1)
+
+function example(n){
+    for(let i=1;i<=n;i*=2){
+        console.log(i)
+    }
+}
+-O(N)
+
+Execute same number of operations, no matter the input size - O(1)
+
+function nestedLoop(n){
+    for(let i=0;i<n;i++){
+        for(let j=0;j<n;j++){
+            console.log(i,j)
+        }
+    }
+}
+-O(N^2)
+
