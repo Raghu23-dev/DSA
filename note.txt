@@ -6,3 +6,6 @@ O(NlogN) - Linearithmic - Time taken increases in a linearithmic manner, often s
 O(N^2) - Quadratic - Time taken increases quadratically as the input size grows. Each element needs to be compared to every other element (nested loops) - Bubble sort or selection sort
 O(2^N) - Exponential - Time taken doubles with each addition to N, leading to rapidly growing execution times - Finding all subsets of a set
 O(N!) - Factorial - Time taken increases factorially with each increase in input size, leading to extremely slow execution times - Solving the travelling salesman problem exhaustively.
+
+Arrays:
+1.Contains Duplicate Problem
