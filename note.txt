@@ -9,3 +9,6 @@ O(N!) - Factorial - Time taken increases factorially with each increase in input
 
 Arrays:
 1.Contains Duplicate Problem
+2.Missing Number
+3.Find all the missing number
+4.Two Sum
